@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Clinton
 - 👀 I’m interested in programming and software development
 - 🌱 I’m currently studying Data and Communication at TEC, Ballerup
-- 💞️ I’m looking to find a place where i can be an intern so i practice, develop and learn more
 - 📫 How to reach me asonzeclinton3@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am very good in CODM
